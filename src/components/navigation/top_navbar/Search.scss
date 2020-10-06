@@ -1,0 +1,6 @@
+$search-color: #262626;
+
+.input-group > .form-control:focus {
+    border-color: $search-color;
+    box-shadow: inset 0 0 0 1px $search-color;
+}

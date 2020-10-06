@@ -10,6 +10,8 @@
     "url": "https://github.com/jason-engelbrecht/foodji-web"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "mdb-ui-kit": "^1.2.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
